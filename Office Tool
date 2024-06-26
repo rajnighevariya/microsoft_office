@@ -14,7 +14,8 @@ setup.exe /configure config.xml
 
 For Activation
 C:\Program Files\Microsoft Office\Office16
-csscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
 
 
 

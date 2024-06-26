@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=KnLEj1Z1JdI
+Office Deployment Tool
+https://www.microsoft.com/en-us/downl...
+
+Office Configuration (XML)
+https://config.office.com/deployments...
+
+
+Office Installation
+cd c:\office
+setup.exe /download config.xml
+setup.exe /configure config.xml

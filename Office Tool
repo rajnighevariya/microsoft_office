@@ -19,3 +19,20 @@ cscript ospp.vbs /act
 
 
 
+
+Step 1: Download Office Deployment Tool
+In the first step, head to the official Microsoft website to download the Office Deployment Tool. Watch as I guide you through the process of extracting the tool into five different files, setting the stage for the later installation of Microsoft Office.
+
+Step 2: Create Microsoft Office Profile
+In the second step, learn how to create a Microsoft Office profile using XML configuration. Choose the 32-bit or 64-bit version, select your preferred Office version, language packs, and additional software options. We'll then export the XML file into the Office folder, preparing for the installation.
+
+Step 3: Install Microsoft Office
+Follow along as we proceed with the installation of Microsoft Office in the third step. Using the Office Deployment Tool, you'll see how to download the XML configuration file and issue commands to initiate the installation process. Watch as Office installs on your computer seamlessly.
+
+Step 4: Activate Microsoft Office
+The final step involves activating Microsoft Office. Learn the two commands needed for activation and witness the successful activation process. I'll guide you through verifying the activation status using Microsoft Word, ensuring your Office suite is fully activated.
+
+All the steps, along with additional backup information and resources, will be detailed in the video description. Check there for comprehensive instructions and helpful links.
+
+Stay tuned for more tech freebies in upcoming videos! If you find this content helpful, don't forget to click the like button and subscribe to my channel. Thank you for watching, and enjoy your free and secure Microsoft Office activation!
+
